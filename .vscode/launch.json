@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Dart",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin/main.dart",
+            "toolArgs": [
+                 "--enable-experiment=native-assets"
+            ]
+        },
+        
+
+    ]
+}
